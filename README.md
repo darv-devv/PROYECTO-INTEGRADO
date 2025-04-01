@@ -4,12 +4,12 @@
 ##Descripción del proyecto
 Una aplicación web para planificación y comunidad de viajes, desarrollada como proyecto de fin de grado.
 
-##Tecnologías principales
+##Tecnologías principales  
 -Frontend: React  
 -Backend:Node.js con Express  
 -Base de datos:MongoDB  
  
-#Requisitos previos
+#Requisitos previos  
 -Node.js  
 -npm  
 -MongoDB  
