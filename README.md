@@ -1,7 +1,7 @@
 # PROYECTO-INTEGRADO
 #TravelMate
 
-##Descripción del proyecto
+##Descripción del proyecto   
 Una aplicación web para planificación y comunidad de viajes, desarrollada como proyecto de fin de grado.
 
 ##Tecnologías principales  
